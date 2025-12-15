@@ -1,0 +1,1 @@
+# SecuLog Insights package
